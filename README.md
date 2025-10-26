@@ -219,7 +219,7 @@ MIT License - feel free to modify and use for personal or commercial projects.
 
 ## 🙏 Credits
 
-Built with love by [@asifhassan](https://twitter.com/asifhassan) (replace with your Twitter handle)
+Built with love by [@theonlysif](https://twitter.com/theonlysif) | [onlysif.com](https://onlysif.com)
 
 Powered by [Poke](https://poke.com) - AI personal assistant via text
 
